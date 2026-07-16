@@ -1,4 +1,5 @@
 # 🍕 Pizza Sales Analysis | SQL Data Analytics Project
+<img width="570" height="592" alt="img 1 11" src="https://github.com/user-attachments/assets/fc5f03da-f795-4058-b047-249cb576807c" />
 
 [![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Live Demo](https://img.shields.io/badge/Live%20Presentation-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://spiffy-pika-006b5c.netlify.app/)
